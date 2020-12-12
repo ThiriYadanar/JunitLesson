@@ -45,7 +45,6 @@ public class MockitoLessonApplicationTests {
 		assertEquals(-81, calService.multiply(-9, 9));
 		assertEquals(-81, calService.multiply(9, -9));
 		assertEquals(81, calService.multiply(-9, -9));
-
 	}
 
 	@Test
