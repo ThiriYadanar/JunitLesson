@@ -57,7 +57,6 @@ public class MockitoLessonApplicationTests {
 		assertEquals(-1, calService.divide(9, -9));
 		assertEquals(1, calService.divide(-9, -9));
 		assertEquals(0, calService.divide(0, 0));
-
 	}
 
 }
